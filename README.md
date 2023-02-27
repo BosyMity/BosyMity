@@ -5,4 +5,6 @@
 Mой  стек  технологий:
 <br>
 <img src="https://img.shields.io/badge/Html-ЦВЕТ ФОНА?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/>
+<br>
+<img src="https://img.shields.io/badge/CSS-ЦВЕТ ФОНА?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/>
 
