@@ -3,7 +3,7 @@
 <br>
 
 МОЙ СТЕК ТЕХНОЛОГИЙ:
-<img src="https://img.shields.io/badge/HTML-ЦВЕТ ФОНА?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/>
+<img src="https://img.shields.io/badge/Html-ЦВЕТ ФОНА?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/>
 
 
 
