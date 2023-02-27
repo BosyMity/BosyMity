@@ -7,6 +7,8 @@
 
 <img src="https://img.shields.io/badge/Html-ЦВЕТ ФОНА?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/>
 
+<img src="https://camo.githubusercontent.com/7569b22f46dd4fedcff266f3bef95e9b5de9f967b493a9c2f140b131a3d29170/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656c656772616d2d626c75653f7374796c653d666c6174266c6f676f3d54656c656772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Telegram-blue?style=flat&amp;logo=Telegram&amp;logoColor=white" style="max-width: 100%;">
+
 
 
 
