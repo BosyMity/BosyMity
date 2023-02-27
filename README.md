@@ -4,6 +4,6 @@
 
 МОЙ СТЕК ТЕХНОЛОГИЙ:
 
-<img src="https://img.shields.io/badge/HTML-#8A2BE2?style=for-the-badge&logo=HTML5&logoColor=#ffffff"/>
+<img src="https://img.shields.io/badge/HTML-#8A2BE2?style=for-the-badge&logo=CSS3&logoColor= #ffffff"/>
 
 
